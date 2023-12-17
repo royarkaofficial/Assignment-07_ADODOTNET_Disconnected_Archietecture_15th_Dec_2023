@@ -1,0 +1,1 @@
+This is an Assignment 07 on ADO.NET Disconnected Architecture on C# and MSSQL SERVER on 15th DEC 2023.
